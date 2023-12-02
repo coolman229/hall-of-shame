@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+img{
+    position: relative;
+    margin-top: 20px;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%,50%);
+}
