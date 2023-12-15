@@ -11,9 +11,6 @@ h1{
     text-align: center;
 }
 img{
-    position: relative;
-    margin-top: 20px;
-    left: 50%;
-    right: 50%;
-    transform: translate(-50%,50%);
+display: flex;
+align-items: center;
 }
